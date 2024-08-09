@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zaidsyed-dev
+- 👀 I’m interested in WEB DEVELOPMET
+- 🌱 I’m currently learning PHP
+- 📫 zaidauctech@gmail.com
